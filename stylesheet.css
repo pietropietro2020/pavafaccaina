@@ -1,0 +1,299 @@
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#grey_line {
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    opacity: 80%;
+ }
+
+#white_space{
+    width: 100%;
+    height: 120px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#img{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#img_2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    right: 0%;
+    opacity: 70%
+    
+}
+
+#numero_telefono{
+    text-align: center;
+    font-size: 25px;
+    width: 28%;
+    height: 30px;
+    background-color: brown;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:absolute;
+    top: 0px;
+    left:50%;
+    opacity:90%;
+    text-decoration: none;
+}
+
+#numero_telefono:hover{
+    font-size: 26px;
+    text-decoration: underline;
+}
+
+#nome_studio{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 30px;
+    width: 30%;
+    height: 85px;
+    background-color: darkslategray;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:absolute;
+    top: 47px;
+    left:5%;
+    content: center;
+}
+
+#cella_1{
+    text-align: center;
+    font-size: 18px;
+    width: 10%;
+    height: 60px;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:absolute;
+    top: 80px;
+    left:40%;
+    text-transform: uppercase;
+}
+#cella_1:hover{
+    color: brown;
+}
+
+#cella_2{
+    text-align: center;
+    font-size: 18px;
+    width: 10%;
+    height: 60px;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:absolute;
+    top: 80px;
+    left:51%;
+    text-transform: uppercase;
+}
+
+#cella_2:hover{
+    color: brown;
+}
+#cella_3{
+text-align: center;
+    font-size: 18px;
+    width: 10%;
+    height: 60px;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:absolute;
+    top: 80px;
+    left:62%;
+    text-transform: uppercase;
+}
+
+#cella_3:hover{
+    color: brown;
+}
+
+#cella_4{
+   text-align: center;
+    font-size: 18px;
+    width: 10%;
+    height: 60px;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:absolute;
+    top: 80px;
+    left:73%;
+    text-transform: uppercase;
+}
+
+#cella_4:hover{
+    color: brown;
+}
+
+#cella_5{
+   text-align: center;
+    font-size: 18px;
+    width: 10%;
+    height: 60px;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:absolute;
+    top: 80px;
+    left:84%;
+    text-transform: uppercase;
+}
+
+#cella_5:hover{
+    color: brown;
+}
+
+#box{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 20%;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 300px;
+    right: 23%;
+    border-radius: 40px;
+    opacity: 80%;
+}
+
+#consulenza_gratuita{
+    background-color: white;
+    opacity: 60%;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    width:20%;
+    position:absolute;
+    top:320px;
+    right: 23%;
+}
+
+#input1{
+    width: 250px;
+    height: 30px;
+    position:absolute;
+    top: 420px;
+    right:24%;
+    border-radius: 10px;
+    opacity: 70%;
+}
+
+#input2{
+    width: 250px;
+    height: 30px;
+    position:absolute;
+    top: 460px;
+    right:24%;
+    border-radius: 10px;
+    opacity: 70%;
+}
+
+#input3{
+    width: 250px;
+    height: 30px;
+    position:absolute;
+    top: 500px;
+    right:24%;
+    border-radius: 10px;
+    opacity: 70%;
+}
+
+#input4{
+    width: 250px;
+    height: 100px;
+    position:absolute;
+    top: 540px;
+    right:24%;
+    border-radius: 10px;
+    opacity: 70%;
+}
+
+#input5{
+    width: 254px;
+    height: 30px;
+    position:absolute;
+    top: 650px;
+    right:24.15%;
+    border-radius: 10px;
+    opacity: 90%;
+    background-color: brown;
+    color: white;
+}
+
+input:hover{
+    background-color: brown;
+    color: white;
+}
+
+#dovemitrovi_striscianera{
+    width: 100%;
+    height: 220px;
+    background-color: black;
+    opacity: 80%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#dovemitrovi_striscianera2{
+    width: 100%;
+    height: 220px;
+    background-color: black;
+    opacity: 80%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#dove_ci_trovi{
+    text-align: center;
+    font-size: 40px;
+    width: 50%;
+    height: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position:absolute;
+    top: 190px;
+    left: 25%;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}
+
+#dove_ci_trovi_riga{
+    width: 50%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: absolute;
+    top: 250px;
+    left: 25%;
+    color: white;
+    
+}
+
+#dove_ci_trovi_dettagli{
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    position: absolute;
+    text-align: center;
+    top: 250px;
+    left: 25%;
+    color: white;
+}
